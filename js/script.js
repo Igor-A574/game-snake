@@ -96,4 +96,3 @@ function drawGame() {
 
 let game = setInterval(drawGame, 100);
 
-console.log('Hello');
